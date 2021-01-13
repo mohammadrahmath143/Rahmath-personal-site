@@ -1,0 +1,263 @@
+body {
+  text-align: center;
+  margin: 0;
+  color: #545454;
+}
+
+.Profile {
+  display: inline-block;
+  position: absolute;
+  border-radius: 100%;
+  left: 60PX;
+  top: 50px;
+}
+
+.Profile:hover {
+  width: :150px;
+}
+
+.designation {
+  font-size: 25px;
+  color: #1e836c;
+  font-family: 'Potta One', cursive;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  background-color: #cae4db;
+  padding-top: 39px;
+  padding-bottom: 100px;
+  height: 100vh;
+}
+
+.my-name {
+  font-size: 50px;
+  font-weight: bolder;
+  text-shadow: 2px 2px 2px red;
+  font-family: 'Sacramento', cursive;
+  position: relative;
+  top: 30px;
+  color: #120078;
+}
+
+.cloud-1 {
+  position: absolute;
+  right: 200px;
+  top: 30px;
+}
+
+.cloud-2 {
+  position: absolute;
+  left: 220px;
+}
+
+.middle-container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  height: 400PX;
+}
+
+/*
+.middle-container:hover{
+  background-color: #96bb7c;
+
+}*/
+.profile-picture {
+  border-radius: 100%;
+  width: 200px;
+}
+
+.profile-picture:hover {
+  width: 220px;
+}
+
+.hi {
+  font-size: 200%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.description {
+  margin-top: 0;
+  width: 25%;
+  font-size: 20px;
+  display: inline-block;
+  left: auto;
+  line-height: 1.5;
+}
+
+.hr-1 {
+  width: 120px;
+  border: dotted 8px;
+  border-top: none;
+  color: #C1A1D3;
+}
+
+.mistake {
+  font-size: 50px;
+  display: inline-block;
+  margin-right: 40px;
+  font-family: 'Potta One', cursive;
+  color: #1e836c;
+}
+
+.test {
+  font-size: 50px;
+  line-height: 0.5
+}
+
+.html-img:hover {
+  width: 150px;
+}
+
+.html-img {
+  margin-top: 0;
+  float: left;
+}
+
+.skills {
+  display: inline-block;
+  width: 500px;
+}
+
+.html {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.css3 {
+  margin-top: 150px;
+  margin-bottom: 150px;
+  font-size: 50px;
+  line-height: 0.5;
+}
+
+.css-img:hover {
+  width: 150px;
+}
+
+.css-img {
+  float: right;
+}
+
+.excel-img:hover {
+  width: 150px;
+}
+
+.excel-img {
+  float: left;
+}
+
+.excel {
+  font-size: 50px;
+  line-height: 0.5;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.word-img:hover {
+  width: 150px;
+}
+
+.word-img {
+  float: right;
+}
+
+.word {
+  font-size: 50px;
+  line-height: 0.5;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.skills-img {
+  position: absolute;
+  margin-top: 75PX;
+}
+
+.hr-3 {
+  width: 120px;
+  border: dotted 8px;
+  border-top: none;
+  color: #C1A1D3;
+}
+
+.help {
+  color: #1e836c;
+  font-size: 60px;
+  display: inline-block;
+  margin-top: 100px;
+}
+
+.help-img {
+  position: absolute;
+  margin-top: 110px;
+  margin-left: 10px;
+}
+
+.paragraph {
+  font-size: 32px;
+  color: #1e836c;
+}
+
+.bottom-container {
+  display: inline-block;
+  max-width: 500PX;
+}
+
+.content {
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+.button {
+  margin-top: 30px;
+  margin-bottom: 50PX;
+  text-align: center;
+  background-color: #F0C38E;
+  border-radius: 3px;
+  font-size: 22px;
+  padding: 10px 18px;
+  font-family: 'Potta One', cursive;
+  color: #545454;
+}
+
+.footer {
+  background-color: #cae4db;
+  height: 150px;
+  margin: 0;
+  padding-top: 50px;
+}
+
+.footer UL {
+  display: inline-flex;
+  list-style: none;
+}
+
+.footer UL LI {
+  width: 120PX;
+  margin: 15PX;
+  padding: 15PX;
+}
+
+LI {
+  font-family: 'Potta One', cursive;
+  font-size: 22PX;
+  list-style: none;
+  text-decoration: none;
+  color: #1e836c;
+}
+
+A {
+  text-decoration: none;
+  color: #1e836c;
+}
+
+.copyright {
+  background-color: #cae4db;
+  margin: none;
+  text-decoration: underline;
+}
